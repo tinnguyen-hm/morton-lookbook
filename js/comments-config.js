@@ -1,1 +1,1 @@
-window.COMMENTS_ENDPOINT = "PASTE_YOUR_APPS_SCRIPT_EXEC_URL_HERE";
+window.COMMENTS_ENDPOINT = "https://script.google.com/macros/s/AKfycbxBOP_fyGTvjSXeyWnSdNWCeslCLDdt7Ndie5xKlDYoMwYvUH_UDXlbHCrtf0DjjgQ1HA/exec";
